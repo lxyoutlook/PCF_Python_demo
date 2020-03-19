@@ -1,0 +1,4 @@
+1;TTT;1584082800;Lin Xiaoyin / Xiao Charles / Tang Qun;Train the trainer!
+2;Docker;1584687600;Cai Li / Wang Wenming;Docker Overview and Live Demo
+3;Kubernetes;1585292400;Tan Qiao/ Li yuan / He Zhibin;Kubernetes Overview and Live Demo
+4;Pivotal Could Foundry;1585897200;Ji Kejin / Chen Qiang;Pivotal Could Foundry (PAS) Overview and Live Demo
